@@ -1,4 +1,3 @@
-````markdown
 # Grafos 2
 
 **Número da Lista**: 2  
@@ -27,10 +26,10 @@
 </table>
 </div>
 
-| Matrícula   | Aluno                              |
-| ----------- | ---------------------------------- |
-| 22/1037803  | Letícia Kellen Ramos Paiva         |
-| 19/0101091  | Yago Amin Santos                   |
+| Matrícula   | Aluno                        |
+| ----------- | ---------------------------- |
+| 22/1037803  | Letícia Kellen Ramos Paiva   |
+| 19/0101091  | Yago Amin Santos             |
 
 ---
 
@@ -49,23 +48,21 @@ A divisão foi feita da seguinte forma: cada integrante da dupla ficou responsá
 
 ### [1728. Cat and Mouse II](https://leetcode.com/problems/cat-and-mouse-ii?envType=problem-list-v2&envId=graph)
 
-**Nível:** Difícil
-
+**Nível:** Difícil  
 
 #### Solução
 ![Solução](./assets/solução1728.png)
 
 #### Código
-O código da solução está em [`cat-and-mouse-ii.py`](./exercicios/get-watched-videos-by-your-friends.py).
+O código da solução está em [`cat-and-mouse-ii.py`](./exercicios/cat-and-mouse-ii.py).
 
 ---
 
 ### [1311. Get Watched Videos by Your Friends](https://leetcode.com/problems/get-watched-videos-by-your-friends?envType=problem-list-v2&envId=graph)
 
-**Nível:** Médio
+**Nível:** Médio  
 
 #### Solução
-
 ![Solução](./assets/solução1311.png)
 
 #### Código
@@ -73,30 +70,24 @@ O código da solução está em [`get-watched-videos-by-your-friends.py`](./exer
 
 ---
 
-### [Exercício Nº - Nome do Exercício](link)
+### [Número. Nome do Exercício](link)
 
-**Nível:** <!-- Difícil | Médio -->
-
-#### Descrição
-Descrição do problema aqui.
+**Nível:** Difícil <!-- ou Médio -->  
 
 #### Solução
-Solução do problema aqui.
+![Solução](./assets/solucaoXXX.png)
 
 #### Código
 O código da solução está em [`arquivo.py`](./exercicios/arquivo.py).
 
 ---
 
-### [Exercício Nº - Nome do Exercício](link)
+### [Número. Nome do Exercício](link)
 
-**Nível:** <!-- Difícil | Médio -->
-
-#### Descrição
-Descrição do problema aqui.
+**Nível:** Médio <!-- ou Difícil -->  
 
 #### Solução
-Solução do problema aqui.
+![Solução](./assets/solucaoYYY.png)
 
 #### Código
 O código da solução está em [`arquivo.py`](./exercicios/arquivo.py).
@@ -106,7 +97,5 @@ O código da solução está em [`arquivo.py`](./exercicios/arquivo.py).
 ## Vídeo Apresentação
 
 Neste vídeo, apresentamos a explicação e a solução dos exercícios escolhidos.  
-**Link do Vídeo:** <!-- https://youtu.be/xxxxx -->
 
-
-```
+**Link do Vídeo:** [Clique aqui](https://youtu.be/xxxxx) <!-- Substitua pelo link real -->
