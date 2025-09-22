@@ -70,27 +70,33 @@ O código da solução está em [`get-watched-videos-by-your-friends.py`](./exer
 
 ---
 
-### [Número. Nome do Exercício](link)
+### [2642. Design Graph With Shortest Path Calculator](https://leetcode.com/problems/design-graph-with-shortest-path-calculator/description/)
 
-**Nível:** Difícil <!-- ou Médio -->  
+**Nível:** Difícil
+
+#### Descrição
+![Descrição](./assets/descrição2642.png)
 
 #### Solução
-![Solução](./assets/solucaoXXX.png)
+![Solução](./assets/solução2642.png)
 
 #### Código
-O código da solução está em [`arquivo.py`](./exercicios/arquivo.py).
+O código da solução está em [`2642_design_graph.py`](./exercicios/2642_design_graph.py).
 
 ---
 
-### [Número. Nome do Exercício](link)
+### [3604. Minimum Time to Reach Destination in Directed Graph](https://leetcode.com/problems/minimum-time-to-reach-destination-in-directed-graph/description/)
 
-**Nível:** Médio <!-- ou Difícil -->  
+**Nível:** Médio
+
+#### Descrição
+![Descrição](./assets/descrição3604.png)
 
 #### Solução
-![Solução](./assets/solucaoYYY.png)
+![Solução](./assets/solução3604.png)
 
 #### Código
-O código da solução está em [`arquivo.py`](./exercicios/arquivo.py).
+O código da solução está em [`3604_minimum_time.py`](./exercicios/3604_minimum_time.py).
 
 ---
 
