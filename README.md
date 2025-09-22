@@ -104,4 +104,4 @@ O código da solução está em [`3604_minimum_time.py`](./exercicios/3604_minim
 
 Neste vídeo, apresentamos a explicação e a solução dos exercícios escolhidos.  
 
-**Link do Vídeo:** [Clique aqui]([https://youtu.be/tC91RuyvPiw])
+**Link do Vídeo:** [Clique aqui](https://youtu.be/tC91RuyvPiw)
